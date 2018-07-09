@@ -27,3 +27,5 @@ def bob_the_reins
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
 end
 
+def lasso
+  puts ""
