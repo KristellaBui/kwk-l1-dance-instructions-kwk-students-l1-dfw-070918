@@ -10,7 +10,7 @@ end
 
 
 def skip_step(left)
-  puts "lower left foot to the ground, briefly"
-  puts "bounce left foot back up slightly, kicking it a few inches back"
-  puts "left, right, left and left"
+  puts "Lower left foot to the ground, briefly"
+  puts "Bounce left foot back up slightly, kicking it a few inches back"
+  puts "Left, Right, Left and Left"
 end 
