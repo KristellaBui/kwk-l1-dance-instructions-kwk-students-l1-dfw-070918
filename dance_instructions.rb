@@ -34,6 +34,5 @@ def lasso
 end 
 
 def bust_a_move
-  puts "Be cool"
-  puts "Be snazzy"
+  puts "Be cool and be snazzy"
 end 
