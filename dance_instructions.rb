@@ -9,4 +9,6 @@ def starting_stance
 end
 def skip_step
   puts "lower left foot to the ground"
+  puts "bounce left foot back up slightly, kicking it a few inches back"
+  puts "left, right, left and left"
 end 
