@@ -14,3 +14,10 @@ def skip_step(left)
   puts "Bounce left foot back up slightly, kicking it a few inches back"
   puts "Left, Right, Left and Left"
 end 
+
+def base_footwork
+  puts "Lift right foot"
+  puts "Return right foot to the ground"
+  puts "Finishing with a small skip-step backward"
+end
+
