@@ -10,5 +10,5 @@ end
 
 
 def skip_step
-  puts "skip a step, lower, bounce, briefly"
+  puts "skip a step (lower, bounce, briefly)"
 end 
