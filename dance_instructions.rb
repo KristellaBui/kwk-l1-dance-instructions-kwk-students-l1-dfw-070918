@@ -10,5 +10,5 @@ end
 
 
 def skip_step
-  puts "skip a step (lower, bounce, briefly, left)"
+  puts "lower left foot to the ground, briefly, bounce left foot back up slightly, kicking it a few inches back, left, right, left and left"
 end 
