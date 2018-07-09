@@ -22,4 +22,5 @@ def base_footwork
 end
 
 def bob_the_reins
-  puts
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts ""
